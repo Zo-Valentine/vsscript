@@ -5,7 +5,6 @@
 #install script for linux so  
 sudo apt update && sudo apt upgrade -y
 sudo apt install net-tools
-sudo apt install git
 sudo apt install vim
 sudo apt install pip3
 pip install notebook
